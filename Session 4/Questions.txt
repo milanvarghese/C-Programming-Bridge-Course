@@ -1,0 +1,15 @@
+Functions:
+
+1. Read a no inside the main function and pass this value to a function called print, display from 1 to n.
+	example if i input n as 5 in main , the print function should display 1  2  3  4  5
+2. Read two values m and n and display from m to n using two functions named forward and backward
+	example if m and n is 2 and 5 the output is 2 3 4 5 (uses forward function)
+		if m and n is 5 and 2 the outout is 5 4 3 2 (uses backward function)
+3. Read two values m and n and diaply from m to n using one fuction and one loop 
+		the problem 2 is achived here with one function and only one looe is permitted.
+4. Read two numbers and pass the values to a function called max and dispaly the maximum inside that functions
+5. A function named min takes two arguments and return the minimum of these two arguments. Use the min function to find the minimum of three numbers in the main functions
+6. A function named reverse takes an integer argument and return the reverse of that number.
+    example if the number 145 is passed it return 541.
+7. A function takes an integer argument and rturns the reverse of that number. Another function called palindrome takes an integer argument and uses the above reverse function to chek the given number is palindrome or not and return 1 (if palindrome) otherwise 0(not palindrome). dispaly the result in the main function.
+8. interchage the values of two variables using call by reference.
