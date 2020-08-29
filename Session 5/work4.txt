@@ -1,0 +1,8 @@
+Recursion
+
+1. find the sum of first n numbers using a recusive function
+ 	example if n is 4 the output is 10 ie 1+2+3+4
+
+2. display from n to 1 using recursion (if n is 3 the output is 3 2 1)
+3. display from 1 to n using recursion (if n is 4 the output is 1 2 3 4)
+4. Find the sum of the digits of a given number using recursion (example if the numebr 145 then the output is 10  ie 1+4+5)
