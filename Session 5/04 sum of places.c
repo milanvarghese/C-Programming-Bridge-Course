@@ -3,7 +3,9 @@
 int sum=0;
 int sumof(int a){
 	if(a==0){
-		return sum;
+		int x=sum;
+		sum=0;
+		return x;
 	}
 	else{
 	sum+=a%10;
