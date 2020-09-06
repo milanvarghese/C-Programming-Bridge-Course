@@ -1,0 +1,6 @@
+1. Create a structure for data having dd,mm and yy. where mm is represented as character array for storing name of the month. Read two dates and check they are same or not.
+
+2. Read n emplyees and search for an employee.
+
+3. arrange the emplyee details in the order of name
+
